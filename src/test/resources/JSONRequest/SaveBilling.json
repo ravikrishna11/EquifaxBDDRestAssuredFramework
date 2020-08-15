@@ -1,0 +1,9 @@
+{
+	"bookingId":11,
+	"customerId":10,
+	"billingAddress":"Texas",
+	"bookingCost":100,
+    "zipzode":1234,
+    "state":"TN"
+	
+}

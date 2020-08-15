@@ -1,0 +1,12 @@
+{
+
+	"bookName":"bookone",
+	"authorId":"<authorID>",
+	"publisherId":"<publisherID>",
+	"authorName":"authorone",
+	"publisherName":"publisherone",
+	"genre":"thriller",
+	"price":100,
+	"numberOfPages":100
+	
+}
